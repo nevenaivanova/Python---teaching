@@ -1,0 +1,24 @@
+Операции със списъци
+
+1. Обхождане на елементите на списъци 
+	За да обходим списък използваме цикъл, който преминава през всеки един от елементите.
+	Най-често се използват следните два:
+		- обхождане на списък, като преминаваме през всеки елемент от списъка
+			
+			Пример:
+			thislist = ["apple", "banana", "cherry"]
+            for x in thislist:
+				print(x)
+		- обхождане на списъка, като преминаваме през индексите на списъка
+			
+			Пример:
+			 thislist = ["apple", "banana", "cherry"]
+             for i in range(len(thislist)):
+				print(thislist[i])
+		  
+		       
+2. Достъпване на конкретни елементи в списъка
+
+3. Полезни линкове
+- For Loops (Цикли в Пайтън) -  https://www.w3schools.com/python/python_for_loops.asp
+- Loop Lists (Цикли в листи)-  https://www.w3schools.com/python/python_lists_loop.asp
