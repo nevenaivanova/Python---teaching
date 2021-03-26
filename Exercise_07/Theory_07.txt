@@ -17,8 +17,9 @@
 				print(thislist[i])
 		  
 		       
-2. Достъпване на конкретни елементи в списъка
 
-3. Полезни линкове
+
+2. Полезни линкове
 - For Loops (Цикли в Пайтън) -  https://www.w3schools.com/python/python_for_loops.asp
 - Loop Lists (Цикли в листи)-  https://www.w3schools.com/python/python_lists_loop.asp
+- Документация на библиотеката turle - https://docs.python.org/3/library/turtle.html
