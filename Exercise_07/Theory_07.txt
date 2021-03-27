@@ -7,13 +7,13 @@
 			
 			Пример:
 			thislist = ["apple", "banana", "cherry"]
-            for x in thislist:
+                        for x in thislist:
 				print(x)
 		- обхождане на списъка, като преминаваме през индексите на списъка
 			
 			Пример:
 			 thislist = ["apple", "banana", "cherry"]
-             for i in range(len(thislist)):
+                         for i in range(len(thislist)):
 				print(thislist[i])
 		  
 		       
