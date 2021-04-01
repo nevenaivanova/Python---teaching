@@ -19,7 +19,7 @@ print(str2.lower())
 print(str2+str3)
 
 #Task3
-print("Languages:\nHTML\nCSS\nPython\nJavaScript)
+print("Languages:\nHTML\nCSS\nPython\nJavaScript")
 
 #Task4
 name=str(input())
