@@ -1,0 +1,44 @@
+'''
+#Task 1 Създайте списък с любимите ви 3 игри и принтирайте елементите му.
+
+list=["GTA","Valorant","Minecraft"]
+print(list)
+
+
+
+#Task 2 Създайте списък съдържащ 6 елемента и принтирайте дължината на списъка.
+list=["minecraft","fortnite","the forest","monstrum","tetris","gta"]
+print(len(list))
+
+
+#Task 3 Презиползвайте списъка от задача 2 и принтирайте: първия, третия и последният му елемент.
+
+element_list = ["element1", "element2", "element3", "element4", "element5", "element6"]
+
+print(element_list[0])
+print(element_list[2])
+print(element_list[5])
+
+#Task 4 Използвайте списъка от задача 2 и принтирайте елементите от втория до петия елемент.
+list=["January", "February", "March", "April", "May", "June"]
+
+print(list[1:5])
+
+
+#Task 6
+Създайте списък, съдържащ 5 елемента, които нека бъдат любимите ви цветове.
+1. Променете елемента, който се съдържа на второ място, с думата "baby blue"
+2.Добавете нов елемент (цвят) към вашия списък, използвайки "append"
+3.Вмъкнете нов елемент (цвят) на третата позиция във вашия списък.
+4.Премахнете някой елемент(цвят) от вашия списък.
+
+
+list = ["orange", "green", "purple", "yellow", "black"]
+list [1] = "baby blue"
+list.append("brown")
+list.insert(2, "gray")
+list.remove("orange")
+print(list)
+'''
+
+
